@@ -7,3 +7,6 @@ To contribute circular design innovation to a global water design commons that c
 
 # Background
 Early in 2018, the City of Cape Town was faced with the potential of a complete shutdown of its municipal water system for its millions of inhabitants. As a result, the city and its inhabitants sprung into action. 
+
+# Contribute
+Click on CONTRIBUTE.md to find out how to contribute. or go directly to the ISSUES tab and select an issue to contribute to. Message us at our [gitter channel](https://gitter.im/oscedays-community/)
